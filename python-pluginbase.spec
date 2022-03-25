@@ -9,7 +9,7 @@ Summary:	Python 2 module for development of flexible plugin systems in Python
 Summary(pl.UTF-8):	Moduł Pythona 2 do tworzenia elastycznych systemów wtyczek w Pythonie
 Name:		python-pluginbase
 Version:	1.0.0
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pluginbase/
